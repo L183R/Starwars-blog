@@ -14,12 +14,6 @@
     border-color: rgb(113, 104, 98);
 }
 
-.tatooine4 {
-    color: black;
-    background-color: rgb(177, 166, 160, 0.5);
-    border-color: rgb(113, 104, 98);
-}
-
 .tatooine1:hover {
     color: whitesmoke;
     background-color: rgb(113, 104, 98);
@@ -32,12 +26,6 @@
 }
 
 .tatooine2 {
-    color: black;
-    background-color: rgb(113, 104, 98);
-    border-color: rgb(177, 166, 160);
-}
-
-.tatooine5 {
     color: black;
     background-color: rgb(113, 104, 98);
     border-color: rgb(177, 166, 160);
@@ -60,12 +48,6 @@
     border-color: rgb(230, 230, 220);
 }
 
-.rebelalliance4 {
-    color: rgb(145, 6, 22);
-    background-color: rgb(230, 230, 220, 0.5);
-    border-color: rgb(230, 230, 220);
-}
-
 .rebelalliance1:hover {
     color: rgb(230, 230, 220);
     background-color: rgb(145, 6, 22);
@@ -78,12 +60,6 @@
 }
 
 .rebelalliance2 {
-    color: rgb(230, 230, 220);
-    background-color: rgb(145, 6, 22);
-    border-color: rgb(145, 6, 22);
-}
-
-.rebelalliance5 {
     color: rgb(230, 230, 220);
     background-color: rgb(145, 6, 22);
     border-color: rgb(145, 6, 22);
@@ -106,12 +82,6 @@
     border-color: rgb(94, 62, 15);
 }
 
-.endor4 {
-    color: rgb(94, 62, 15);
-    background-color: rgb(159, 173, 84, 0.5);
-    border-color: rgb(94, 62, 15);
-}
-
 .endor1:hover {
     color: rgb(159, 173, 84);
     background-color: rgb(94, 62, 15);
@@ -129,12 +99,6 @@
     border-color: rgb(159, 173, 84);
 }
 
-.endor5 {
-    color: rgb(159, 173, 84);
-    background-color: rgb(94, 62, 15);
-    border-color: rgb(159, 173, 84);
-}
-
 .endor2:hover {
     color: rgb(94, 62, 15);
     background-color: rgb(159, 173, 84);
@@ -147,19 +111,13 @@
 }
 
 .deathstar1 {
-    color: white;
+    color: rgb(25, 25, 25);
     background-color: rgb(120, 120, 120);
     border-color: rgb(25, 25, 25);
 }
 
-.deathstar4 {
-    color: white;
-    background-color: rgb(120, 120, 120, 0.5);
-    border-color: rgb(25, 25, 25);
-}
-
 .deathstar1:hover {
-    color: white;
+    color: rgb(120, 120, 120);
     background-color: rgb(25, 25, 25);
     border-color: rgb(120, 120, 120);
 }
@@ -170,19 +128,13 @@
 }
 
 .deathstar2 {
-    color: white;
-    background-color: rgb(25, 25, 25);
-    border-color: rgb(120, 120, 120);
-}
-
-.deathstar5 {
-    color: white;
+    color: rgb(120, 120, 120);
     background-color: rgb(25, 25, 25);
     border-color: rgb(120, 120, 120);
 }
 
 .deathstar2:hover {
-    color: white;
+    color: rgb(25, 25, 25);
     background-color: rgb(120, 120, 120);
     border-color: rgb(25, 25, 25);
 }
@@ -215,30 +167,15 @@
     border-color: rgb(158, 187, 231);
 }
 
-
-.alderaan5 {
-    color: rgb(158, 187, 231);
-    background-color: rgb(118, 114, 66);
-    border-color: rgb(158, 187, 231);
-}
-
 .alderaan2:hover {
     color: rgb(118, 114, 66);
     background-color: rgb(158, 187, 231);
     border-color: rgb(118, 114, 66);
 }
 
-
-
 .alderaan2.focus,
 .alderaan2:focus {
     box-shadow: .2rem .2rem .2rem .2rem rgb(158, 187, 231);
-}
-
-.alderaan4 {
-    color: rgb(118, 114, 66);
-    background-color: rgb(158, 187, 231, 0.5);
-    border-color: rgb(118, 114, 66);
 }
 
 .rebelalliance3 {
@@ -273,8 +210,8 @@
     display: block;
 }
 
-.deathstar3 {
-    background-image: url("https://p4.wallpaperbetter.com/wallpaper/782/482/378/space-star-wars-millenium-falcon-planet-death-star-hd-wallpaper-preview.jpg");
+.desthstar3 {
+    background-image: url("https://images.alphacoders.com/107/107763.jpg");
     width: 100%;
     height: auto;
     background-size: cover;

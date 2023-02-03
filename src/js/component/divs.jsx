@@ -1,9 +1,12 @@
 import React, { Component } from "react";
-import { Card } from "./card.jsx";
+import { Cardper } from "./cardper.jsx";
+import { Cardpla } from "./cardpla.jsx";
+import { Cardnav } from "./cardnav.jsx";
 
 export const Divs = () => (
     <div>
-        <div><Card /></div>
-        <div></div>
+        <div><Cardper /></div>
+        <div><Cardpla /></div>
+        <div><Cardnav /></div>
     </div>
 );
